@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Resource\Component\ListBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resource\Component\MessageBox\MessageBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resource\Component\MessageBox\NotifyBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resource\Component\ToggleButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\History\EditHistoryView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\History\ReportHistoryView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\QCView\ChartView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\QCView\DataGrid.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resource\Component\ListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resource\Component\MenuButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resource\Component\OpenFile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\LoginView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\QAView\AddStandardView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\QAView\DetailStandardView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\QAView\MainQAView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\QCView\MainQCView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\QCView\QCReportView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Supervise\SuperviseView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Resource\Component\ListBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resource\Component\MessageBox\MessageBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resource\Component\MessageBox\NotifyBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resource\Component\MessageBox\WarningBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resource\Component\ToggleButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\History\EditHistoryView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\History\ReportHistoryView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\QCView\ChartView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\QCView\DataGrid.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resource\Component\ListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resource\Component\MenuButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resource\Component\OpenFile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resource\Style\ColumnHeader.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resource\Style\ListItem.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resource\Style\MenuButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\QAView\AddStandardView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\QAView\DetailStandardView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\QAView\MainQAView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\QCView\MainQCView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\QCView\QCReportView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Supervise\SuperviseView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,70 @@
+﻿<UserControl x:Class="QAQCDesktopApplication.View.QCView.DataGrid"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QAQCDesktopApplication.View.QCView"
+            mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="1060"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+             xmlns:tools="clr-namespace:QAQCDesktopApplication.ValueConverter.MyApp.Tools"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13pt"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+
+    <DataGrid ItemsSource="{Binding ReportQC}" x:Name="dataGrid" CanUserReorderColumns="False"
+            ItemContainerStyle="{StaticResource datarow}" 
+            ColumnHeaderStyle="{StaticResource DataGridColumnHeaderStyle2}"
+            HorizontalScrollBarVisibility="Visible"
+            materialDesign:DataGridAssist.CellPadding="10 2.5 -5 2.5"
+            materialDesign:DataGridAssist.ColumnHeaderPadding="0 20 -2 2"
+            AutoGenerateColumns="False" IsReadOnly="True" SelectionUnit="FullRow"
+            RowBackground="#FFD4D6EA" AlternatingRowBackground="White"                    
+            SelectedItem="{Binding Selected, UpdateSourceTrigger=PropertyChanged}">
+        <DataGrid.Columns>
+            <DataGridTextColumn Binding="{Binding standard.id}" Header="MÃ TIÊU CHUẨN" Width="170"/>
+            <DataGridTextColumn Binding="{Binding standard.product.id}" Header="MÃ SẢN PHẨM" Width="150"/>
+            <DataGridTextColumn Header="TÊN SẢN PHẨM" Width="280" Binding="{Binding standard.product.name}">
+                <DataGridTextColumn.ElementStyle>
+                    <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource MaterialDesignDataGridTextColumnStyle}">
+                        <Setter Property="HorizontalAlignment" Value="Center" />
+                    </Style>
+                </DataGridTextColumn.ElementStyle>
+            </DataGridTextColumn>
+            <DataGridTextColumn Binding="{Binding timestamp}" Header="THỜI GIAN KIỂM" Width="200"/>
+            <DataGridTextColumn Header="NGƯỜI KIỂM" Width="150">
+                <DataGridTextColumn.Binding>
+                    <Binding Path="qcTester.lastName">
+                    </Binding>
+                </DataGridTextColumn.Binding>
+            </DataGridTextColumn>
+            <materialDesign:DataGridTextColumn Binding="{Binding batchQuantity}"
+                    Header="SỐ LƯỢNG" Width="120">
+                <DataGridTextColumn.ElementStyle>
+                    <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource MaterialDesignDataGridTextColumnStyle}">
+                        <Setter Property="HorizontalAlignment" Value="Center" />
+                    </Style>
+                </DataGridTextColumn.ElementStyle>
+            </materialDesign:DataGridTextColumn>
+            <DataGridCheckBoxColumn Header="NGOẠI QUAN"          
+                EditingElementStyle="{StaticResource MaterialDesignDataGridCheckBoxColumnEditingStyle}"
+                Width="110" Binding="{Binding QualifiedDimension}"/>
+        </DataGrid.Columns>
+        <!--<i:Interaction.Triggers>
+            <i:EventTrigger EventName="MouseLeftButtonDown" >
+                <i:InvokeCommandAction Command="{Binding ShowCommand}" />
+            </i:EventTrigger>
+        </i:Interaction.Triggers>-->
+        <DataGrid.InputBindings>
+            <MouseBinding MouseAction="LeftDoubleClick" 
+                    Command="{Binding DetailCommand}" 
+                    CommandParameter="{Binding ElementName=dataGrid, Path=SelectedItems}">
+            </MouseBinding>
+        </DataGrid.InputBindings>
+    </DataGrid>
+</UserControl>
+

@@ -1,0 +1,1010 @@
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Design\Image\LogoCha.png
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Design\Image\LogoViam.jpg
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.exe
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.deps.json
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.runtimeconfig.json
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.AssemblyReference.cache
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Style\ColumnHeader.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Style\MenuButton.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\DataGrid.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\MenuButton.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\OpenFile.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_Content.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.cache
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.lref
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\DataGrid.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\MenuButton.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\OpenFile.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.baml
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.g.resources
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfoInputs.cache
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfo.cs
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CoreCompileInputs.cache
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CopyComplete
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.dll
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.genruntimeconfig.cache
+C:\Users\Admins\Downloads\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.AssemblyReference.cache
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Style\ColumnHeader.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Style\MenuButton.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\DataGrid.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\MenuButton.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\OpenFile.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_Content.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.cache
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.lref
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Design\Image\LogoCha.png
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Design\Image\LogoViam.jpg
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.exe
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.deps.json
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.runtimeconfig.json
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\DataGrid.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\MenuButton.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\OpenFile.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.baml
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.g.resources
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfoInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfo.cs
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CoreCompileInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CopyComplete
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.genruntimeconfig.cache
+D:\Luận văn\Qa_Qc_Wpf\New folder\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Design\Image\LogoCha.png
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Design\Image\LogoViam.jpg
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.exe
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.deps.json
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.runtimeconfig.json
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.AssemblyReference.cache
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Style\ColumnHeader.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Style\MenuButton.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\DataGrid.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\MenuButton.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\OpenFile.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_Content.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.cache
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.lref
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\DataGrid.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\MenuButton.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\OpenFile.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.baml
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.g.resources
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfoInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfo.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CoreCompileInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CopyComplete
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.genruntimeconfig.cache
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\ListView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\github\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\ListView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Design\Image\LogoCha.png
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Design\Image\LogoViam.jpg
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.exe
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.deps.json
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.runtimeconfig.json
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.AssemblyReference.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Style\ColumnHeader.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Style\MenuButton.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\DataGrid.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\ListView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\MenuButton.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\OpenFile.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_Content.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.lref
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\DataGrid.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\ListView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\MenuButton.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\Design\Component\OpenFile.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.g.resources
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfoInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfo.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CoreCompileInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CopyComplete
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.genruntimeconfig.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.exe
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.AssemblyReference.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\ColumnHeader.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\ListItem.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\MenuButton.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MenuButton.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\OpenFile.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\DataGrid.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_Content.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.lref
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\WebDriver.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Syncfusion.Compression.Base.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Syncfusion.Pdf.Base.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Syncfusion.PdfViewer.WPF.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MenuButton.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\OpenFile.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\DataGrid.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.g.resources
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfoInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfo.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CoreCompileInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\LogoViam.jpg
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.deps.json
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.runtimeconfig.json
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CopyComplete
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.genruntimeconfig.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\LogoCHA.jpg
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\LogoCHA.jpg
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\LogoViam.jpg
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.exe
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.deps.json
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.runtimeconfig.json
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\DevExpress.Data.v21.2.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\WebDriver.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.AssemblyReference.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\ColumnHeader.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\ListItem.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\MenuButton.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MenuButton.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\OpenFile.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ToggleButton.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\ChartView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\DataGrid.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_Content.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.lref
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MenuButton.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\OpenFile.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ToggleButton.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\ChartView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\DataGrid.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.g.resources
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfoInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfo.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CoreCompileInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CopyComplete
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.genruntimeconfig.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\MessageBox.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\WarningBox.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\MessageBox.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\WarningBox.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListBox.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListBox.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\DEE.png
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\Supervise\Supervise.g.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\Supervise\Supervise.baml
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\Logo-BK.png
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EntityFramework.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\DEE.png
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\Logo-BK.png
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\LogoCHA.jpg
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\LogoViam.jpg
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.exe
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.deps.json
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.runtimeconfig.json
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\DevExpress.Data.v21.2.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EntityFramework.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\WebDriver.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.AssemblyReference.cache
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\ColumnHeader.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\ListItem.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\MenuButton.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListBox.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MenuButton.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\MessageBox.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\WarningBox.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\OpenFile.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ToggleButton.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\History\MainHistory.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\ChartView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\DataGrid.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\Supervise\Supervise.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_Content.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.cache
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.lref
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListBox.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListView.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MenuButton.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\MessageBox.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\WarningBox.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\OpenFile.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ToggleButton.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\History\MainHistory.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\ChartView.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\DataGrid.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\Supervise\Supervise.baml
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.g.resources
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfoInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfo.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CoreCompileInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CopyComplete
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.genruntimeconfig.cache
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\WebDriver.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CoreCompileInputs.cache
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\DEE.png
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\Logo-BK.png
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\LogoCHA.jpg
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\LogoViam.jpg
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.exe
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.deps.json
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.runtimeconfig.json
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\DevExpress.Data.v21.2.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EntityFramework.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.AssemblyReference.cache
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\ColumnHeader.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\ListItem.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\MenuButton.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListBox.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListView.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MenuButton.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\MessageBox.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\WarningBox.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\OpenFile.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ToggleButton.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\History\EditHistoryView.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\History\ReportHistoryView.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\ChartView.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\DataGrid.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\Supervise\Supervise.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_Content.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.cache
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.lref
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListBox.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListView.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MenuButton.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\MessageBox.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\WarningBox.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\OpenFile.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ToggleButton.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\History\EditHistoryView.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\History\ReportHistoryView.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\ChartView.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\DataGrid.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\Supervise\Supervise.baml
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.g.resources
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfoInputs.cache
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfo.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CopyComplete
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.genruntimeconfig.cache
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\DEE.png
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\Logo-BK.png
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\LogoCHA.jpg
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Resource\Image\LogoViam.jpg
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.exe
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.deps.json
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.runtimeconfig.json
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\DevExpress.Data.v21.2.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\WebDriver.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.AssemblyReference.cache
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\ColumnHeader.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\ListItem.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Style\MenuButton.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListBox.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListView.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MenuButton.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\MessageBox.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\WarningBox.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\OpenFile.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ToggleButton.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\History\EditHistoryView.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\History\ReportHistoryView.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\ChartView.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\DataGrid.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_Content.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.cache
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication_MarkupCompile.lref
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\App.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListBox.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ListView.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MenuButton.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\MessageBox.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\WarningBox.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\OpenFile.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\ToggleButton.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\History\EditHistoryView.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\History\ReportHistoryView.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\LoginView.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\AddStandardView.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\DetailStandardView.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QAView\MainQAView.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\ChartView.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\DataGrid.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\MainQCView.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\QCView\QCReportView.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.g.resources
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfoInputs.cache
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.AssemblyInfo.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CoreCompileInputs.cache
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.csproj.CopyComplete
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.pdb
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\QAQCDesktopApplication.genruntimeconfig.cache
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Humanizer.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\NotifyBox.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\Resource\Component\MessageBox\NotifyBox.baml
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\AutoMapper.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Mono.Cecil.Mdb.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Mono.Cecil.Pdb.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Mono.Cecil.Rocks.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Mono.Cecil.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Syncfusion.Compression.Portable.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\Syncfusion.Pdf.Portable.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\Supervise\SuperviseView.g.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication\obj\Debug\net6.0-windows\View\Supervise\SuperviseView.baml

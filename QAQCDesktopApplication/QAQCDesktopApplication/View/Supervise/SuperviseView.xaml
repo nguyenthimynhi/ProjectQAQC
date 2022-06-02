@@ -1,0 +1,143 @@
+﻿<UserControl x:Class="QAQCDesktopApplication.View.Supervise"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QAQCDesktopApplication.View"
+             mc:Ignorable="d"
+             xmlns:local2="clr-namespace:QAQCDesktopApplication.ValueConverter"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+             Height="680" Width="1060"
+             xmlns:tools="clr-namespace:QAQCDesktopApplication.ValueConverter.MyApp.Tools"
+             xmlns:component="clr-namespace:QAQCDesktopApplication.Resource.Component"
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             Background="#E8EAF6">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Grid>
+        <materialDesign:DialogHost x:Name="DialogBox"
+                HorizontalAlignment="Center" FontFamily="Arial"
+                VerticalAlignment="Center"
+                DialogTheme="Inherit"
+                IsOpen="{Binding IsDialogOpen}">
+            <materialDesign:DialogHost.DialogContent>
+                <component:MessageBox DataContext="{Binding MessageBox}"/>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.9*"/>
+                <RowDefinition Height="1.1*"/>
+                <RowDefinition Height="0.9*"/>
+                <RowDefinition Height="12*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" FontSize="17pt" TextAlignment="Center" Margin="0 5 0 0"
+            Text="KIỂM SOÁT CHẤT LƯỢNG SẢN PHẨM TRONG SẢN XUẤT" FontFamily="Calibri"/>
+            <Grid Grid.Row="1" Margin="5 0 0 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="16*"/>
+                    <ColumnDefinition Width="4.5*"/>
+                    <ColumnDefinition Width="4.5*"/>
+                </Grid.ColumnDefinitions>
+                <Grid x:Name="Size" Grid.Column="0">
+                    <TextBlock Text="Ngày sản xuất:" VerticalAlignment="Center" HorizontalAlignment="Right"
+                               FontSize="13pt"/>
+                </Grid>
+                <DatePicker Padding="5 5 6 5" Grid.Column="1" Margin="1 7 450 0"                      
+                        materialDesign:HintAssist.Hint="Pick Date" FontSize="13pt" 
+                        Background="#FFBDDFE4" Foreground="Black" BorderThickness="0"
+                        materialDesign:TextFieldAssist.HasClearButton="True"
+                        materialDesign:ColorZoneAssist.Mode="PrimaryMid"
+                        CalendarStyle="{StaticResource CustomCalendar}"
+                        SelectedDate="{Binding Date}"/>
+                <!--<ComboBoxItem Content="Nắp đế bàn cầu hơi HA40 trắng TO1" Padding="15 -1 0 -0.8"/>
+                <ComboBoxItem Content="Chân đế HA40 trắng (SS124 #W)" Padding="15 -1 0 -0.8"/>-->
+                <Grid x:Name="Size1" Grid.Column="2" Margin="2 5 5 -10">
+                    <Button                 
+                        materialDesign:ButtonAssist.CornerRadius="0"
+                        Height="{Binding Path=ActualHeight, ElementName=Size1}"
+                        Width="{Binding Path=ActualWidth, ElementName=Size1}"   
+                        Background="#FF2673BF" FontSize="14pt"                         
+                        BorderBrush="Transparent"
+                        ToolTip="Resource name: MaterialDesignRaisedLightDarkButton" Content="TRUY XUẤT"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Command="{Binding ImportCommand}">
+                    </Button>
+                </Grid>
+                <Grid x:Name="Size2" Grid.Column="3" Margin="2 5 5 -10">
+                    <Button Style="{StaticResource MaterialDesignRaisedButton}" 
+                    materialDesign:ButtonAssist.CornerRadius="0" 
+                    Height="{Binding Path=ActualHeight, ElementName=Size2}"
+                    Width="{Binding Path=ActualWidth, ElementName=Size2}"   
+                    Background="#FF2673BF" FontSize="14pt"
+                    BorderBrush="#00000000"  
+                    ToolTip="Resource name: MaterialDesignRaisedLightDarkButton" Content="XUẤT EXCEL"
+                    Command="{Binding ExportCommand}"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="2" Margin="5 0 0 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="16*"/>
+                </Grid.ColumnDefinitions>
+                <Grid x:Name="Size5" Grid.Column="0">
+                    <materialDesign:PackIcon Kind="Magnify" VerticalAlignment="Center" HorizontalAlignment="Right"
+                     Height="{Binding Path=ActualHeight, ElementName=Size5, Converter={tools:RatioConverter}, ConverterParameter='0.85'}"                 
+                     Foreground="#FF636363" Background="#FFBDDFE4" Width="20"/>
+                </Grid>
+                <TextBox Grid.Column="1" Margin="-1 3 708 3" Padding="0 5 0 5"
+                    FontSize="13pt" Background="#FFBDDFE4" Foreground="Black" BorderThickness="0"
+                    materialDesign:HintAssist.Hint="Tìm kiếm thông tin"
+                    materialDesign:ColorZoneAssist.Mode="PrimaryMid" 
+                    Text="{Binding Filter, UpdateSourceTrigger=PropertyChanged}">
+                </TextBox>
+            </Grid>
+            <Grid Grid.Row="3" x:Name="Size3"  Margin="4 5 4 5">
+                <DataGrid IsSynchronizedWithCurrentItem="True" ItemsSource="{Binding view}"
+                  ColumnHeaderStyle="{StaticResource DataGridColumnHeaderStyle2}"
+                  CanUserReorderColumns="False" 
+                  materialDesign:DataGridAssist.CellPadding="10 2 -5 2"
+                  materialDesign:DataGridAssist.ColumnHeaderPadding="0 20 -2 2"
+                  AutoGenerateColumns="False" IsReadOnly="True" SelectionUnit="FullRow"
+                  RowBackground="#FFD4D6EA" AlternatingRowBackground="White"          
+                  FontSize="13pt"
+                  SelectedItem="{Binding Selected}"             
+                  ScrollViewer.HorizontalScrollBarVisibility="Visible" x:Name="MyListView">
+                    <DataGrid.Resources>
+                        <local2:OrdinalConverter x:Key="OrdinalConverter"/>
+                        <DataTemplate x:Key="OrdinalColumnDataTemplate">
+                            <TextBlock Text="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=DataGridRow},
+                        Converter={StaticResource ResourceKey=OrdinalConverter}}" HorizontalAlignment="Center"/>
+                        </DataTemplate>
+                    </DataGrid.Resources>
+                    <DataGrid.Columns>
+                        <DataGridTemplateColumn Width="55" Header="STT" CellTemplate="{StaticResource ResourceKey=OrdinalColumnDataTemplate}">
+                        </DataGridTemplateColumn>
+                        <DataGridTextColumn Width="107" Binding="{Binding ID}" Header="MÃ MÁY"/>
+                        <DataGridTextColumn Width="127" Binding="{Binding moldId}" Header="MÃ KHUÔN"/>
+                        <DataGridTextColumn Width="177" Binding="{Binding product.id}" Header="MÃ SẢN PHẨM"/>
+                        <DataGridTextColumn Width="200" Binding="{Binding product.name}" Header="TÊN SẢN PHẨM"/>
+                        <DataGridTextColumn Width="100" Binding="{Binding date}" Header="NGÀY SẢN XUẤT"/>
+                        <DataGridCheckBoxColumn Width="100" Binding="{Binding Thongsocaidat}" Header="THÔNG SỐ MÁY"/>
+                        <DataGridCheckBoxColumn Width="100" Binding="{Binding Quytrinhhoatdong}" Header="QUY TRÌNH HOẠT DỘNG"/>
+                        <DataGridCheckBoxColumn Width="100" Binding="{Binding Nhancong}" Header="NHÂN CÔNG ĐỨNG MÁY"/>
+                        <DataGridCheckBoxColumn Width="100" Binding="{Binding Nhietdo}" Header="NHIỆT ĐỘ"/>
+
+                    </DataGrid.Columns>
+                    <DataGrid.InputBindings>
+                        <MouseBinding MouseAction="LeftDoubleClick" 
+                    Command="{Binding DetailCommand}" 
+                    CommandParameter="{Binding ElementName=MyListView, Path=SelectedItems}">
+                        </MouseBinding>
+                    </DataGrid.InputBindings>
+                </DataGrid>
+
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

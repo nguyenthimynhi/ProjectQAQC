@@ -1,0 +1,176 @@
+﻿<UserControl x:Class="QAQCDesktopApplication.View.QCView.QCReportView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QAQCDesktopApplication.View.QCView"
+             xmlns:component="clr-namespace:QAQCDesktopApplication.Resource.Component"
+             mc:Ignorable="d" 
+             Height="250" Width="990"
+             xmlns:local1="clr-namespace:QAQCDesktopApplication.View.QAView"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+             xmlns:tools="clr-namespace:QAQCDesktopApplication.ValueConverter.MyApp.Tools"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13pt"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+    <materialDesign:Card Background="{DynamicResource MaterialDesignPaper}" Margin="0 2" Padding="5 0"
+        materialDesign:ShadowAssist.ShadowDepth="Depth3" UniformCornerRadius="0">
+            <!--<Grid.RowDefinitions>
+                <RowDefinition Height="0.6*"/>
+                <RowDefinition Height="10*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" x:Name="Size" Background="#FFD5E3F3">
+                <TextBlock FontSize="10.5pt" TextAlignment="Center"
+                    Text="Báo cáo kiểm tra chất lượng sản phẩm" FontWeight="Thin"/>
+                <Button HorizontalAlignment="Right" Style="{StaticResource CloseButton}"
+                        Height="{Binding Path=ActualHeight, ElementName=Size}"
+                        Width="{Binding Path=ActualWidth, ElementName=Size, Converter={tools:RatioConverter}, ConverterParameter='0.025'}"
+                        Foreground="DimGray"
+                        Command="{Binding CloseCommand}" 
+                        Content="{materialDesign:PackIcon Kind=Close, Size=16}">
+                </Button>
+            </Grid>-->
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.7*"/>
+                    <RowDefinition Height="0.7*"/>
+                    <RowDefinition Height="0.7*"/>
+                    <RowDefinition Height="3.7*"/>
+                </Grid.RowDefinitions>
+                <StackPanel Orientation="Horizontal" Grid.Row="0">
+                    <TextBlock Text="Mã tiêu chuẩn" Style="{StaticResource textheader}" Width="125"/>
+                    <TextBlock Text="Mã sản phẩm" Style="{StaticResource textheader}" Width="118"/>
+                    <TextBlock Text="Tên sản phẩm" Style="{StaticResource textheader}" Width="390"/>
+                    <TextBlock Text="Thời gian kiểm tra" Style="{StaticResource textheader}" Width="193"/>
+                    <TextBlock Text="Người kiểm" Style="{StaticResource textheader}" Width="145"/>
+                </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="1">
+                <TextBox Text="{Binding Codeitem}" Width="127" Style="{StaticResource textboxitem}"/>
+                <TextBox Text="{Binding Iditem}" Width="120" Style="{StaticResource textboxitem}"/>
+                <TextBox Text="{Binding Nameitem}" Width="392" Style="{StaticResource textboxitem}"/>
+                <TextBox Text="{Binding Timeitem}" Width="195" Style="{StaticResource textboxitem}"/>
+                <TextBox Text="{Binding Testeritem}" Width="145" Style="{StaticResource textboxitem}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="2">
+                    <TextBlock Text="Số lượng" Style="{StaticResource textheader}" Width="100"/>
+                    <TextBlock Text="Lỗi ngoại quan" Style="{StaticResource textheader}" Width="280"/>
+                    <TextBlock Text="Kích thước" Style="{StaticResource textheader}" Width="120"/>
+                    <TextBlock Text="Đo lần 1" Style="{StaticResource textheader}" Width="93"/>
+                    <TextBlock Text="Đo lần 2" Style="{StaticResource textheader}" Width="93"/>
+                    <TextBlock Text="Đo lần 3" Style="{StaticResource textheader}" Width="93"/>
+                    <TextBlock Text="Đo lần 4" Style="{StaticResource textheader}" Width="93"/>
+                    <TextBlock Text="Đo lần 5" Style="{StaticResource textheader}" Width="93"/>
+                </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Grid.Row="3">
+                <TextBox Text="{Binding Batchitem}" Width="101" Style="{StaticResource textboxitem}"/>
+                <ListBox ItemsSource="{Binding AppearanceResults}" Width="282" IsSelected="False">
+                    <ListBox.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel Orientation="Horizontal"/>
+                        </ItemsPanelTemplate>
+                    </ListBox.ItemsPanel>
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <ListBoxItem Content="{Binding name}"  Margin="-2 -7"/>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <ListBox Width="120" ItemsSource="{Binding NameDimension}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <ListBoxItem Content="{Binding}" Margin="0 -6" HorizontalContentAlignment="Center"/>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+                <StackPanel Orientation="Vertical" Width="475">
+                    <ListBox ItemsSource="{Binding DimensionResult1}">
+                        <ListBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <UniformGrid Columns="5"/>
+                            </ItemsPanelTemplate>
+                        </ListBox.ItemsPanel>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <ListBoxItem Content="{Binding result}" Margin="0 -6"/>
+                                    <CheckBox IsChecked="{Binding passed}" Margin="0 -5 0 -5"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <ListBox ItemsSource="{Binding DimensionResult2}" >
+                        <ListBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <UniformGrid Columns="5"/>
+                            </ItemsPanelTemplate>
+                        </ListBox.ItemsPanel>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <ListBoxItem Content="{Binding result}" Margin="0 -6"/>
+                                    <CheckBox IsChecked="{Binding passed}" Margin="0 -5 0 -5" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <ListBox ItemsSource="{Binding DimensionResult3}">
+                        <ListBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <UniformGrid Columns="5"/>
+                            </ItemsPanelTemplate>
+                        </ListBox.ItemsPanel>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <ListBoxItem Content="{Binding result}" Margin="0 -6"/>
+                                    <CheckBox IsChecked="{Binding passed}" Margin="0 -5 0 -5"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <ListBox ItemsSource="{Binding DimensionResult4}">
+                        <ListBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <UniformGrid Columns="5"/>
+                            </ItemsPanelTemplate>
+                        </ListBox.ItemsPanel>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <ListBoxItem Content="{Binding result}" Margin="0 -6"/>
+                                    <CheckBox IsChecked="{Binding passed}" Margin="0 -5 0 -5"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <!--<ListBox ItemsSource="{Binding DimensionResult5}">
+                        <ListBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <UniformGrid Columns="5"/>
+                            </ItemsPanelTemplate>
+                        </ListBox.ItemsPanel>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <ListBoxItem Content="{Binding result}" Margin="0 -6"/>
+                                    <CheckBox IsChecked="{Binding passed}" Margin="0 -5 0 -5"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>-->
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Grid.Row="3" HorizontalAlignment="Left" Width="102.3" Margin="0 25">
+                <TextBlock Text="Mã máy" Style="{StaticResource textheader}" Height="28"/>
+                <TextBox Text="{Binding MachineId}" Style="{StaticResource textboxitem}" Height="25"/>
+                <TextBlock Text="Mã khuôn" Style="{StaticResource textheader}" Height="28"/>
+                <TextBox Text="{Binding MoldId}" Style="{StaticResource textboxitem}" Height="25"/>
+            </StackPanel>
+        </Grid>
+    </materialDesign:Card>
+</UserControl>

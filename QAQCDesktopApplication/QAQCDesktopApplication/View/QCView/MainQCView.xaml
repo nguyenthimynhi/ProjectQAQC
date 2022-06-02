@@ -1,0 +1,164 @@
+﻿<UserControl x:Class="QAQCDesktopApplication.View.QCView.MainQCView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             xmlns:local="clr-namespace:QAQCDesktopApplication.View.QCView"
+             mc:Ignorable="d"
+             xmlns:component="clr-namespace:QAQCDesktopApplication.Resource.Component"
+             xmlns:uc2="clr-namespace:QAQCDesktopApplication.View.QCView"             
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+             xmlns:converter="clr-namespace:QAQCDesktopApplication.ValueConverter"
+             xmlns:tools="clr-namespace:QAQCDesktopApplication.ValueConverter.MyApp.Tools"
+     Height="680" Width="1060"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13pt"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="#E8EAF6"
+     FontFamily="Arial"
+     HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+     x:Name="MQC" Padding="10">
+    <Grid>
+        <materialDesign:DialogHost x:Name="DialogBox"
+                HorizontalAlignment="Center" FontFamily="Arial"
+                VerticalAlignment="Center"
+                DialogTheme="Inherit"
+                IsOpen="{Binding IsDialogOpen}">
+            <materialDesign:DialogHost.DialogContent>
+                <component:MessageBox DataContext="{Binding MessageBox}"/>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.9*"/>
+                <RowDefinition Height="0.8*"/>
+                <RowDefinition Height="0.9*"/>
+                <RowDefinition Height="7*"/>
+                <RowDefinition Height="5.4*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" FontSize="17pt" TextAlignment="Center" Margin="0 4 0 0"
+            Text="BÁO CÁO KIỂM TRA CHẤT LƯỢNG SẢN PHẨM" FontFamily="Calibri"/>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="5.2*"/>
+                    <ColumnDefinition Width="12.5*"/>
+                    <ColumnDefinition Width="4.75*"/>
+                    <ColumnDefinition Width="4.75*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Mã tiêu chuẩn:" FontSize="13pt" VerticalAlignment="Center"/>
+                <Grid Grid.Column="1">
+                    <ComboBox Grid.Column="1" Padding="10 5"
+                    ScrollViewer.VerticalScrollBarVisibility="Visible"
+                    Background="#FFD3E1E6" Foreground="Black" BorderThickness="0"
+                    materialDesign:TextFieldAssist.HasClearButton="True"
+                    materialDesign:ColorZoneAssist.Mode="PrimaryMid" 
+                    IsEditable="True"
+                    Text="{Binding ID}">
+                        <ComboBoxItem Content="TC-PQA-093" Padding="10 -0.8 0 -0.8"/>
+                        <ComboBoxItem Content="TC-PQA-103" Padding="10 -0.8 0 -0.8"/>
+                        <ComboBoxItem Content="TC-PQA-506" Padding="10 -0.8 0 -0.8"/>
+                        <ComboBoxItem Content="TC-PQA-464" Padding="10 -0.8 0 -0.8"/>
+                        <ComboBox.InputBindings>
+                            <MouseBinding Command="{Binding LoadCommand}" MouseAction="LeftClick" />
+                        </ComboBox.InputBindings>
+                    </ComboBox>
+                </Grid>
+                <Grid Grid.Column="3" x:Name="Grid1">
+                    <Button Style="{StaticResource MaterialDesignRaisedButton}" VerticalAlignment="Top"
+                    Width="{Binding Path=ActualWidth, ElementName=Grid1,Converter={tools:RatioConverter}, ConverterParameter='0.92'}"
+                    Height="{Binding Path=ActualHeight, ElementName=Grid1, Converter={tools:RatioConverter}, ConverterParameter='1.5'}"
+                    materialDesign:ButtonAssist.CornerRadius="0" Margin="0 -5 0 -17"
+                    Background="#FF2673BF" FontSize="14pt" BorderBrush="Transparent" 
+                    ToolTip="Resource name: MaterialDesignRaisedLightDarkButton" 
+                    Content="TRUY XUẤT" Command="{Binding ServerCommand}"/>
+                </Grid>
+                <Grid Grid.Column="4" x:Name="Grid2" >
+                    <Button Style="{StaticResource MaterialDesignRaisedButton}" VerticalAlignment="Top"
+                    Width="{Binding Path=ActualWidth, ElementName=Grid2, Converter={tools:RatioConverter}, ConverterParameter='0.92'}"
+                    Height="{Binding Path=ActualHeight, ElementName=Grid2, Converter={tools:RatioConverter}, ConverterParameter='1.5'}"
+                    materialDesign:ButtonAssist.CornerRadius="0" Margin="0 -5 0 -17"
+                    Background="#FF2673BF" FontSize="14pt" BorderBrush="Transparent"
+                    ToolTip="Resource name: MaterialDesignRaisedLightDarkButton" 
+                    Content="XUẤT EXCEL" Command="{Binding ExportCommand}"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="4.6*"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="15*"/>
+                    <ColumnDefinition Width="15*"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="15*"/>
+                    <ColumnDefinition Width="44*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Từ ngày:" FontSize="13pt" VerticalAlignment="Center" Grid.Column="1"/>
+                <Grid Grid.Column="2" x:Name="Grid4">
+                    <DatePicker Background="#FFD3E1E6" BorderBrush="Gray" Padding="10 0 10 0"                        
+                        materialDesign:HintAssist.Hint="Pick Date" FontSize="13pt" 
+                        Width="{Binding Path=ActualWidth, ElementName=Grid4}"
+                        Height="{Binding Path=ActualHeight, ElementName=Grid4, Converter={tools:RatioConverter}, ConverterParameter='0.75'}"
+                        CalendarStyle="{StaticResource CustomCalendar}"
+                        SelectedDate="{Binding StartDate}"/>
+                </Grid>
+                <TextBlock Grid.Column="4" Text="Đến ngày:" FontSize="13pt" VerticalAlignment="Center"/>
+                <Grid Grid.Column="5">
+                    <DatePicker Background="#FFD3E1E6" BorderBrush="Gray" Padding="10 0 10 0"                            
+                        materialDesign:HintAssist.Hint="Pick Date" FontSize="13pt"
+                        Width="{Binding Path=ActualWidth, ElementName=Grid4}"
+                        Height="{Binding Path=ActualHeight, ElementName=Grid4, Converter={tools:RatioConverter}, ConverterParameter='0.75'}"
+                        CalendarStyle="{StaticResource CustomCalendar}"
+                        SelectedDate="{Binding StopDate}"/>
+                </Grid>
+            </Grid>
+
+            <Grid Grid.Row="3">
+                <uc2:DataGrid/>
+            </Grid>
+            <Grid Grid.Row="4">
+                <TabControl Style="{StaticResource MaterialDesignNavigatilRailTabControl}" Visibility="{Binding ReportView}" 
+                  TabStripPlacement="Left" 
+                  materialDesign:ShadowAssist.ShadowDepth="Depth2"
+                  materialDesign:NavigationRailAssist.SelectionCornerRadius="40 5 5 5"
+                  materialDesign:NavigationRailAssist.ShowSelectionBackground="True">
+                    <TabItem Height="115" Width="50">
+                        <TabItem.Header>
+                            <StackPanel>
+                                <materialDesign:PackIcon Kind="Folder" HorizontalAlignment="Center" Height="25" Width="25"/>
+                                <TextBlock Text="CHI TIẾT" HorizontalAlignment="Center" FontFamily="Calibri"
+                                       RenderTransformOrigin="0.5,0.5" Margin="0 20">
+                                    <TextBlock.RenderTransform>
+                                        <TransformGroup>
+                                            <RotateTransform Angle="90"/>
+                                        </TransformGroup>
+                                    </TextBlock.RenderTransform>
+                                </TextBlock>
+                            </StackPanel>
+                        </TabItem.Header>
+                        <uc2:QCReportView/>
+                    </TabItem>
+                    <TabItem Height="120" Width="50">
+                        <TabItem.Header>
+                            <StackPanel>
+                                <materialDesign:PackIcon Kind="ChartPie" HorizontalAlignment="Center" Height="25" Width="25" />
+                                <TextBlock Text="BIỂU ĐỒ" HorizontalAlignment="Center" FontFamily="Calibri"
+                                       RenderTransformOrigin="0.5,0.5" Margin="0 20" >
+                                    <TextBlock.RenderTransform>
+                                        <TransformGroup>
+                                            <RotateTransform Angle="90"/>
+                                        </TransformGroup>
+                                    </TextBlock.RenderTransform>
+                                </TextBlock>
+                            </StackPanel>
+                        </TabItem.Header>
+                        <uc2:ChartReport/>
+                    </TabItem>
+                </TabControl>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

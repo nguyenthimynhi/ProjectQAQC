@@ -1,0 +1,80 @@
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.deps.json
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.csproj.AssemblyReference.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.AssemblyInfoInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.AssemblyInfo.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.csproj.CoreCompileInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication - Copy\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.deps.json
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.csproj.AssemblyReference.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.AssemblyInfoInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.AssemblyInfo.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.csproj.CoreCompileInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication_ver1\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.deps.json
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.csproj.AssemblyReference.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.AssemblyInfoInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.AssemblyInfo.cs
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.csproj.CoreCompileInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.runtimeconfig.json
+D:\Luận văn\Qa_Qc_Wpf\desktop_cha_qa-qc-department-desktop-app\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.genruntimeconfig.cache
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.deps.json
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.runtimeconfig.json
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.csproj.AssemblyReference.cache
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.AssemblyInfoInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.AssemblyInfo.cs
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.csproj.CoreCompileInputs.cache
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.Core.dll
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.genruntimeconfig.cache
+D:\Luận văn\Qa_Qc_Wpf\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.Core.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.deps.json
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.runtimeconfig.json
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.csproj.AssemblyReference.cache
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.AssemblyInfoInputs.cache
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.AssemblyInfo.cs
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.csproj.CoreCompileInputs.cache
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.Core.dll
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.genruntimeconfig.cache
+D:\WPF\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.Core.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.deps.json
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.runtimeconfig.json
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\bin\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.csproj.AssemblyReference.cache
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.AssemblyInfoInputs.cache
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.AssemblyInfo.cs
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.csproj.CoreCompileInputs.cache
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\refint\QAQCDesktopApplication.Core.dll
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.pdb
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\QAQCDesktopApplication.Core.genruntimeconfig.cache
+D:\CHA_QAQC-develop\QAQCDesktopApplication\QAQCDesktopApplication.Core\obj\Debug\net6.0-windows\ref\QAQCDesktopApplication.Core.dll
